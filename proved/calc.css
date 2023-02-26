@@ -1,0 +1,19 @@
+
+
+#maindiv{
+    height: 300px;
+    width: 212px;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(55, 61, 59);
+    padding: 5px;
+    margin: center;
+    border-radius: 10px;
+}
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
